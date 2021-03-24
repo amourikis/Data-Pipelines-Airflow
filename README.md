@@ -14,7 +14,7 @@ The database uses start schema model. There is only one fact table, **songplays*
 ## ETL Process
 The tool used for scheduling and orchestrationg ELT is Apache Airflow.
 
-![Image of DAG](/img/dag.png)
+![Image of DAG](DAG.png)
 
 ### Files:
 `README.md`
